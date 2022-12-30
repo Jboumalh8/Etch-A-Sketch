@@ -1,4 +1,4 @@
- Etch-A-Sketch
+ Etch-A-Sketch Assembly Language program
 
 Author: James Boumalhab
 
