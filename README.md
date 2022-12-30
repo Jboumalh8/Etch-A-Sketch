@@ -1,5 +1,6 @@
  Etch-A-Sketch
- Author: James Boumalhab
+
+Author: James Boumalhab
 
  To compile the code, follow the series of steps provided below:
  ---------------------------------------------------------------
